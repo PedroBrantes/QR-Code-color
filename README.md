@@ -1,2 +1,8 @@
 # QR-Code-color
-QR Code generator and export with color in svg or png
+
+- Website Page Generator **QR Code**
+- Export
+    - PNG
+    - SVG
+- Personalize **QR code** with your favorite colors
+---
