@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="pt-br">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,16 +7,16 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Gerador de QR Code</h1>
   <div id="qr-code-container">
+    <h1>Generator <br><strong>QR Color</strong></h1>
     <div id="qr-code"></div>
     <input type="text" id="text-input" placeholder="Digite o texto">
     <button id="generate-button">Gerar QR Code</button>
-    <button id="export-svg-button">Exportar SVG</button>
     <button id="export-png-button">Exportar PNG</button>
     <input type="color" id="color-input" value="#000000">
     <button id="change-color-button">Mudar Cor</button>
   </div>
+
   <script src="https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"></script>
   <script src="script.js"></script>
 </body>

@@ -12,14 +12,6 @@ document.getElementById('generate-button').addEventListener('click', function() 
   });
 });
 
-document.getElementById('export-svg-button').addEventListener('click', function() {
-  var svg = document.getElementById('qr-code').querySelector('canvas').toDataURL("image/svg+xml");
-  var downloadLink = document.createElement('a');
-  downloadLink.href = svg;
-  downloadLink.download = 'qr_code.svg';
-  downloadLink.click();
-});
-
 document.getElementById('export-png-button').addEventListener('click', function() {
   var canvas = document.getElementById('qr-code').querySelector('canvas');
   var png = canvas.toDataURL("image/png");
