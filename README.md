@@ -4,6 +4,7 @@
 - Export
     - PNG
 - Personalize **QR code** with your favorite colors
+    - Gradient
 ---
 <div style="float: left; width: 500px;">
     <img src="https://cdn.discordapp.com/attachments/1094740932303261718/1112080427260321892/qrcode-color-example.gif" alt="QR Cod Color example">
