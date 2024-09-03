@@ -1,6 +1,5 @@
 Here’s the updated README file incorporating your specified format and content:
 
-```markdown
 # QR-Code-color
 
 - Website Page Generator **QR Code**
@@ -8,13 +7,6 @@ Here’s the updated README file incorporating your specified format and content
     - PNG
 - Personalize **QR code** with your favorite colors
     - Gradient
-
----
-
-<div style="float: left; width: 500px;">
-    <img src="https://cdn.discordapp.com/attachments/1094740932303261718/1112080427260321892/qrcode-color-example.gif" alt="QR Code Color example">
-</div>
-
 ---
 
 ## Dependencies
@@ -25,11 +17,11 @@ Here’s the updated README file incorporating your specified format and content
 
 1. Clone this repository:
    ```bash
-   git clone <REPOSITORY_URL>
+   git clone https://github.com/PedroBrantes/QR-Code-color.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <DIRECTORY_NAME>
+   cd QR-Code-color
    ```
 3. Open the `index.html` file in a web browser.
 
@@ -47,8 +39,3 @@ Contributions are welcome! Feel free to open issues or pull requests.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-### Notes:
-- Replace `<REPOSITORY_URL>` and `<DIRECTORY_NAME>` with the relevant information for your project.
-- If you need any further adjustments, just let me know!
